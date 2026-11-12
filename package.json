@@ -1,0 +1,12 @@
+{
+  "name": "onboarding-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Educational mock banking microservice, no real customer data",
+  "scripts": {
+    "start": "node onboarding-server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
